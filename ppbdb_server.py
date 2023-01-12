@@ -49,4 +49,4 @@ def ppdbAll():
 
 if __name__ == "__main__":
 	print("PPDB Server Running")
-	app.run(host='0.0.0.0', port=args.port)
+	app.run(host='0.0.0.0', port=9998)
